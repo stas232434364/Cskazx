@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <iomanip>
 
@@ -11,7 +12,7 @@ int main() {
     cin >> m;
 
     int a[100][100];
-
+    cout << "hello world" << endl;
     // Ввод матрицы с клавиатуры
     cout << "a (" << n << "x" << m << "):" << endl;
     for (int i = 0; i < n; i++) {
